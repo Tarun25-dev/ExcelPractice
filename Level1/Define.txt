@@ -1,0 +1,19 @@
+Excel: Excel is a spreadsheet software developed by Microsoft.
+>> It is used to store, organize, analyze, visualize data.
+
+Main Features:
+
+>> Formulas & Functions for calculations
+>> Pivot Tables for data summarization
+>> Charts & Graphs for visualization
+>> Data Cleaning & Filtering tools
+
+Excel file Extension:
+>> An extension is the last part of a file name that tells your computer what type of file it is.
+1. .xlsx = Standard Excel workbook (Latest version)
+2. .xls  = Older Excel version (before 2007)
+3. .xlsm = Excel workbooks with macros (automated scripts)
+4. .csv  = Comma seperated values (data-only, no-formatting)
+
+Overview:
+>> Excel = Data + Analysis + Visualization + Automation

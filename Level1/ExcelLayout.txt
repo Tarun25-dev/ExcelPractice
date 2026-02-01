@@ -1,0 +1,37 @@
+1. Workbook (.xlsx):
+>> A workbook is the entire excel file, it contain multiple worksheets.
+>> Think of it like a Notebook (multiple pages inside).
+
+2. Worksheet:
+>> A Worksheet is a single page/sheet inside a workbook,used to enter data, formulas, charts.
+>> Default names: sheet1, sheet2, sheet3,...
+>> Think of it like a one page in a Notebook.
+
+3. Quick access toolbar:
+>> Located at the top-left corner
+>> contains frequently used commands
+   > Save
+   > Undo
+   > Redo
+>> Customizable (You can add more tools)
+>> Used for time saving purpose.
+
+4. Name Box:
+>> Found left side of the formula bar.
+>> it shows cell address like (A1, B5,..)
+>> Named ranges
+>> Can be used to jump to a specific cell
+>> type c10 -> press enter
+
+5. Formula Bar:
+>> Located below the ribbon
+>> Displays data, formulas of the selected cell
+>> Used to enter or edit formulas
+>> Example: SUM(A10:B12)
+
+6. Status Bar:
+>> Located at the bottom excel
+>> shows ready/Edit mode
+>> sum, average, count (for selected cells)
+>> zoom level
+>> Helps you monitor worksheet status
